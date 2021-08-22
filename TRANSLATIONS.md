@@ -66,3 +66,4 @@ If you can, in your PR, please include a translation of the description of the a
 If possible, please translate the following keywords too (required by iOS localization):
 
 > Anxiety, Depression, Cognitive Behavioral Therapy, CBT, Panic
+> Cognitive behavioral therapy is a psycho-social intervention that aims to improve mental health. CBT focuses on challenging and changing cognitive distortions and behaviors, improving emotional regulation, and the development of personal coping strategies that target solving current problems.
